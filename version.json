@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.1/update_v1.0.1.zip",
-  "changelog": "• Initial software version and updates setup.\n• Session persistence and report exports enabled."
+  "changelog": "• Fixed FB Bulk ID Login bot launch issue\n• Updated system GUI to v1.0.1"
 }
