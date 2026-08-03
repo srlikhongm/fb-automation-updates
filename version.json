@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.3",
-  "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.3/BrowserProfileManager.zip",
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.4/BrowserProfileManager.zip",
   "changelog": "- Fixed FB Page Creator dialog layout compression\n- Added line-by-line caption text file loader with auto loop cycling in FB Bulk Video Publisher\n- Fixed QSpinBox layout formatting and design\n- Fixed SSL update download compatibility"
 }
