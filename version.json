@@ -1,5 +1,11 @@
 {
-  "latest_version": "1.0.2",
-  "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.2/BrowserProfileManager.zip",
-  "changelog": "- Fixed FB Page Creator dialog layout compression\n- Added line-by-line caption text file loader with auto loop cycling in FB Bulk Video Publisher\n- Fixed QSpinBox layout formatting and design\n- Fixed SSL update download compatibility"
+  "latest_version": "1.0.3",
+  "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.3/BrowserProfileManager.zip",
+  "changelog": "- 📋 v1.0.3 Release Notes & Features:
+
+Bulk 1-to-1 Caption Assignment: Sequential line-by-line caption pasting across all Meta Business Suite Reel description boxes.
+1–3s Humanized Delay: Random 1 to 3 seconds pause between pasting each description for stealth bot protection.
+Clean Single-Line Commenting: Auto-sanitizes comments to post exactly 1 clean comment per profile in FB Reels Auto Commenter.
+No-Page Account Protection: Auto-detects accounts without active Pages, logs the report, returns to Home, waits 3–4s, and closes the browser to prevent personal profile posting.
+Instant Session Cookie Sync: Injects saved cookies immediately on startup so Facebook opens 100% logged in on the 1st second."
 }
