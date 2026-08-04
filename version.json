@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.3",
-  "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.3/BrowserProfileManager.zip",
-  "changelog": "v1.0.3 Release Notes & Features:\n• Bulk 1-to-1 Caption Assignment: Sequential line-by-line caption pasting across Meta Business Suite Reel boxes.\n• 1-3s Humanized Delay: Random 1 to 3 seconds pause after each description paste.\n• Clean Single-Line Commenting: Auto-sanitizes comments to post exactly 1 clean comment per profile.\n• No-Page Account Protection: Auto-detects accounts without active Pages, logs report, waits 3-4s, and closes browser.\n• Instant Session Cookie Sync: Injects saved cookies immediately on startup so Facebook opens 100% logged in."
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.4/BrowserProfileManager.zip",
+  "changelog": "v1.0.4 Release Notes:\n• Fast auto-skip for accounts without Facebook Pages.\n• Disabled video posting to personal timeline feeds.\n• Auto-delete for Checkpoint, 2FA & Device Approval accounts.\n• Fixed session cookie persistence & browser stability."
 }
