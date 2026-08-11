@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.8",
-  "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.8/BrowserProfileManager.zip",
+  "latest_version": "1.0.9",
+  "download_url": "https://github.com/srlikhongm/fb-automation-updates/releases/download/v1.0.9/BrowserProfileManager.zip",
   "changelog": "v1.0.5 Release Notes:\n• ALL Videos 100% Rule: Waits for ALL bulk videos to reach 100% before posting.\n• Auto-Extension: Automatically extends timeout while videos are actively uploading.\n• Dark Black Captions: Native CDP text insertion for active React state captions.\n• Active Page Recognition: Instantly detects accounts already operating under Page profiles."
 }
